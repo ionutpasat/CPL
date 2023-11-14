@@ -1,0 +1,4 @@
+Int sum(Int a, Int b) {return a + b;}
+if a
+    then if b * 4 then -1 else 2 fi
+    else x <= 4 fi;
